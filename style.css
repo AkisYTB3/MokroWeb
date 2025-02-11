@@ -1,3 +1,7 @@
 :root {
     --pico-primary: #5e35b1 !important;
 }
+
+pre {
+    width: 50%;
+}
